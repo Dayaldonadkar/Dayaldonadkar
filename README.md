@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dayaldonadkar
 - 👀 I’m interested in Data Science, Artificial Intilligence, Machine learning
-- 🌱 I’m currently learning Python
+- 🌱Fronte End Developer
 - 📫 How to reach me Dayaldonadkar@gmail.com, Dayalpython@gmail.com
 
 <!---
